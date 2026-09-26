@@ -37,9 +37,6 @@ A widely used open-source web server. It hosted the fake captive portal page tha
 ### PHP
 A server-side scripting language used with Apache. The capture script was written in PHP to receive and log submitted credentials.
 
-### Bettercap
-A modular network attack framework used for Man-in-the-Middle (MITM) operations. It performs ARP spoofing, traffic sniffing, and DNS spoofing to intercept and analyze victim traffic.
-
 ## Step by Step walk-through of the attack
 
 ### Step 1:Reconnaissance
